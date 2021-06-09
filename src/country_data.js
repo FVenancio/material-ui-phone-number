@@ -1050,6 +1050,7 @@ const rawAllCountries = [
     ['europe', 'european-union'],
     'pt',
     '351',
+    '+... ... ... ...',
   ],
   [
     'Puerto Rico',
